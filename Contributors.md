@@ -6925,3 +6925,4 @@ Aadi Deshmukh
 - [Tristan Bierig](https://github.com/TristanBierig)
 - [Baptiste Crepin](https://github.com/Baptiste-Crepin)
 - [Aanchal Shah](https://github.com/aanchalsh)
+- [Uilliam Santos](https://github.com/uilliambruno-droid)
